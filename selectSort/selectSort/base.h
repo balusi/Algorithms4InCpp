@@ -16,4 +16,3 @@ protected:  //子类要能访问到
 	int array_length;
 	int* array_ptr; //指向数组的指针
 };
-#pragma once

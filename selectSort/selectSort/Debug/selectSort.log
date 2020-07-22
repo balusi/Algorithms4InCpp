@@ -1,4 +1,7 @@
 ﻿  base.cpp
+  mergeSort.cpp
+  shellSort.cpp
+  insertSort.cpp
   main.cpp
   selectSort.cpp
   正在生成代码...
